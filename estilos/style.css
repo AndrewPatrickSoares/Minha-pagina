@@ -1,0 +1,12 @@
+:root {
+    --fonte: "nunito";
+    --fundo-header: #40E0D0;
+    --fundo-footer: linear-gradient(90deg, #FFFFFF 40%, #40E0D0);
+}
+
+body {
+    background-color: #FFFFFF;
+    font-family: var(--fonte);
+    font-size: 16px;
+    font-weight: 400;
+}
