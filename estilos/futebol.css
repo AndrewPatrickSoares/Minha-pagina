@@ -1,0 +1,8 @@
+.container__imagem {
+    display: flex;
+    justify-content: center;
+}
+
+.container__imagem--palmeiras {
+    width: 90%;
+}
