@@ -1,0 +1,20 @@
+.container {
+    margin: 2em;
+}
+.container__perfil {
+    display: none;
+}
+
+.container__titulo {
+    font-size: 22px;
+    font-weight: 700;
+    padding: 2em 0;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.container__texto {
+    line-height: 20px;
+    padding: 1em;
+    font-size: 18px;
+}
