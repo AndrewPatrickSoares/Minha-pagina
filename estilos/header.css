@@ -1,0 +1,13 @@
+.cabecalho {
+    background-color: var(--fundo-header);
+}
+
+.lista {
+    display: flex;
+    justify-content: space-around;
+    padding: 1em;
+}
+
+.lista__link--logo {
+    width: 50px;
+}

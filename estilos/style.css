@@ -1,3 +1,6 @@
+@import url("../estilos/header.css");
+
+
 :root {
     --fonte: "nunito";
     --fundo-header: #40E0D0;
