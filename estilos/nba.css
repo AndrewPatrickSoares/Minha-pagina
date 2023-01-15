@@ -1,0 +1,78 @@
+.clippers, .celtics, .bulls, .jogadores__lista {
+    display: flex;
+    flex-direction: column;
+}
+
+
+.clippers__logo, .celtics__logo, .bulls__logo {
+    display: none;
+}
+
+.clippers__descricao, .celtics__descricao, .bulls__descricao {
+    line-height: 20px;
+    padding: 1em;
+    font-size: 18px;
+}
+
+
+.card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 3em;
+}
+
+.card__texto {
+    text-align: center;
+    font-size: 12px;
+    padding-top: 0.5em;
+    font-style: italic;
+    color: var(--texto-branco);
+}
+
+.card__jogadores {
+    width: 100%;
+}
+
+.card__clippers {
+    background-color: var(--fundo-clippers);
+    border: 1em solid var(--fundo-clippers);
+    border-radius: 1em;
+}
+
+.card__celtics {
+    background-color: var(--fundo-celtics);
+    border: 1em solid var(--fundo-celtics);
+    border-radius: 1em;
+}
+
+.card__bulls {
+    background-color: var(--fundo-bulls);
+    border: 1em solid var(--fundo-bulls);
+    border-radius: 1em;
+}
+
+.jogadores__texto {
+    line-height: 20px;
+    padding: 1em;
+    font-size: 18px;
+}
+
+.jogadores__logo {
+    display: none;
+}
+
+.jogadores__lista {
+    margin-top: 2em;
+}
+
+.jogadores__imagem {
+    width: 100%;
+}
+
+.jogadores__nome {
+    font-weight: 700;
+    text-align: center;
+    margin: 1em 0;
+    text-transform: uppercase;
+}

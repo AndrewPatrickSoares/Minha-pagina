@@ -2,12 +2,17 @@
 @import url("../estilos/home-corpo.css");
 @import url("../estilos/footer.css");
 @import url("../estilos/futebol.css");
+@import url("../estilos/nba.css");
 
 
 :root {
     --fonte: "nunito";
     --fundo-header: #40E0D0;
     --fundo-footer: linear-gradient(90deg, #FFFFFF 40%, #40E0D0);
+    --fundo-clippers: #191970;
+    --fundo-celtics: #006400;
+    --fundo-bulls: #8B0000;
+    --texto-branco: #FFFFFF;
 }
 
 body {
