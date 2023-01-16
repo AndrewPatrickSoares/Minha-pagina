@@ -6,3 +6,9 @@
 .container__imagem--palmeiras {
     width: 90%;
 }
+
+@media screen and (min-width: 1024px) {
+    .container__imagem--palmeiras {
+        width: 50%;
+    }
+}
