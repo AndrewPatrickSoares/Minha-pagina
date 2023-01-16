@@ -133,4 +133,8 @@
     .jogadores__lista {
         text-align: center;
     }
+
+    .card__bulls {
+        width: 100%;
+    }
 }
