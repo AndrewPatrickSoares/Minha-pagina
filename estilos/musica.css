@@ -14,3 +14,9 @@
 .playlist__card {
     margin: 2em auto;
 }
+
+@media screen and (min-width: 1024px) {
+    .playlist__card {
+        width: 75%;
+    }
+}
