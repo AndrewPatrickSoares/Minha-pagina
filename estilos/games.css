@@ -1,0 +1,16 @@
+.games {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+.games__titulo {
+    font-weight: 700;
+    font-size: 18px;
+    text-transform: uppercase;
+    margin: 2em 0 0.5em;
+}
+
+.games__video {
+    width: 100%;
+}
