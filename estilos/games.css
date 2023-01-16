@@ -14,3 +14,9 @@
 .games__video {
     width: 100%;
 }
+
+@media screen and (min-width: 1024px) {
+    .games__video {
+        width: 75%;
+    }
+}
