@@ -18,3 +18,12 @@
     padding: 1em;
     font-size: 18px;
 }
+
+@media screen and (min-width: 1024px) {
+    .container__perfil {
+        display: block;
+        margin: 1em auto;
+        width: 30%;
+        box-shadow: 1em 1em 4em var(--fundo-header);
+    }
+}
